@@ -48,3 +48,10 @@ No official trademarks, logos, or licensed assets are intended for use in this r
 Dangelo Marques  
 Full Stack Developer / Game Systems Prototype  
 Focus: data-driven systems, simulation, and manager-game architectures.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for details.
