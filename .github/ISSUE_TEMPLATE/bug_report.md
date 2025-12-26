@@ -7,32 +7,40 @@ assignees: ''
 
 ---
 
----
-name: Bug Report
-about: Report a bug or unexpected behavior in the simulation engine
-title: "[Bug] "
-labels: bug
-assignees: ''
+# 🐞 Bug Report
+
+Please fill out the information below to help us identify and fix the issue.
+
 ---
 
 ## Description
-Describe the bug clearly and concisely.
+A clear and concise description of what the bug is.
+
+---
 
 ## Steps to Reproduce
-1. 
-2. 
-3. 
+1.
+2.
+3.
+
+---
 
 ## Expected Behavior
-What you expected to happen.
+Describe what you expected to happen.
+
+---
 
 ## Actual Behavior
-What actually happened.
+Describe what actually happened.
+
+---
 
 ## Environment
 - Engine version / commit:
 - Platform (Windows, Linux, macOS):
-- Build type (Debug/Release):
+- Build type (Debug / Release):
+
+---
 
 ## Additional Context
-Logs, screenshots, save files, or any other relevant information.
+Add any other context about the problem here (logs, screenshots, save files, etc.).

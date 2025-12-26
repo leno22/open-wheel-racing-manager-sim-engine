@@ -7,14 +7,6 @@ assignees: ''
 
 ---
 
----
-name: Feature Request
-about: Suggest an idea or improvement for the simulation engine
-title: "[Feature] "
-labels: enhancement
-assignees: ''
----
-
 ## Description
 Describe the feature or improvement you are proposing.
 
