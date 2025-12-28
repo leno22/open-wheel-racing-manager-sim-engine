@@ -63,8 +63,6 @@ The objective is to establish a stable, extensible simulation foundation before 
 ### ❌ This project **is not**
 - A UI prototype or “vertical slice”
 - A visual demo meant to impress via graphics
-- A licensed Formula 1 / FIA product
-- A project using official names, logos, or trademarks
 
     </td>
   </tr>
